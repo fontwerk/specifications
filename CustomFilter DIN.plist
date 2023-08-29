@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+CustomFilter DIN Glyph Sets
+v.1.0 added DIN-91379, based on: https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.3.txt
+-->
+<array>
+	<dict>
+		<key>name</key>
+		<string>DIN-91379</string>
+		<key>subGroup</key>
+		<array>
+			<!-- START: normative -->
+			<dict>
+				<key>list</key>
+				<array>
+					<string>A</string> <!-- unicode 0041 -->
+					<string>B</string> <!-- unicode 0042 -->
+					<string>C</string> <!-- unicode 0043 -->
+					<string>D</string> <!-- unicode 0044 -->
+					<string>E</string> <!-- unicode 0045 -->
+					<string>F</string> <!-- unicode 0046 -->
+					<string>G</string> <!-- unicode 0047 -->
+					<string>H</string> <!-- unicode 0048 -->
+					<string>I</string> <!-- unicode 0049 -->
+					<string>J</string> <!-- unicode 004A -->
+					<string>K</string> <!-- unicode 004B -->
+					<string>L</string> <!-- unicode 004C -->
+					<string>M</string> <!-- unicode 004D -->
+					<string>N</string> <!-- unicode 004E -->
+					<string>O</string> <!-- unicode 004F -->
+					<string>P</string> <!-- unicode 0050 -->
+					<string>Q</string> <!-- unicode 0051 -->
+					<string>R</string> <!-- unicode 0052 -->
+					<string>S</string> <!-- unicode 0053 -->
+					<string>T</string> <!-- unicode 0054 -->
+					<string>U</string> <!-- unicode 0055 -->
+					<string>V</string> <!-- unicode 0056 -->
+					<string>W</string> <!-- unicode 0057 -->
+					<string>X</string> <!-- unicode 0058 -->
+					<string>Y</string> <!-- unicode 0059 -->
+					<string>Z</string> <!-- unicode 005A -->
+					<string>a</string> <!-- unicode 0061 -->
+					<string>b</string> <!-- unicode 0062 -->
+					<string>c</string> <!-- unicode 0063 -->
+					<string>d</string> <!-- unicode 0064 -->
+					<string>e</string> <!-- unicode 0065 -->
+					<string>f</string> <!-- unicode 0066 -->
+					<string>g</string> <!-- unicode 0067 -->
+					<string>h</string> <!-- unicode 0068 -->
+					<string>i</string> <!-- unicode 0069 -->
+					<string>j</string> <!-- unicode 006A -->
+					<string>k</string> <!-- unicode 006B -->
+					<string>l</string> <!-- unicode 006C -->
+					<string>m</string> <!-- unicode 006D -->
+					<string>n</string> <!-- unicode 006E -->
+					<string>o</string> <!-- unicode 006F -->
+					<string>p</string> <!-- unicode 0070 -->
+					<string>q</string> <!-- unicode 0071 -->
+					<string>r</string> <!-- unicode 0072 -->
+					<string>s</string> <!-- unicode 0073 -->
+					<string>t</string> <!-- unicode 0074 -->
+					<string>u</string> <!-- unicode 0075 -->
+					<string>v</string> <!-- unicode 0076 -->
+					<string>w</string> <!-- unicode 0077 -->
+					<string>x</string> <!-- unicode 0078 -->
+					<string>y</string> <!-- unicode 0079 -->
+					<string>z</string> <!-- unicode 007A -->
+					<string>Agrave</string> <!-- unicode 00C0 -->
+					<string>Aacute</string> <!-- unicode 00C1 -->
+					<string>Acircumflex</string> <!-- unicode 00C2 -->
+					<string>Atilde</string> <!-- unicode 00C3 -->
+					<string>Adieresis</string> <!-- unicode 00C4 -->
+					<string>Aring</string> <!-- unicode 00C5 -->
+					<string>AE</string> <!-- unicode 00C6 -->
+					<string>Ccedilla</string> <!-- unicode 00C7 -->
+					<string>Egrave</string> <!-- unicode 00C8 -->
+					<string>Eacute</string> <!-- unicode 00C9 -->
+					<string>Ecircumflex</string> <!-- unicode 00CA -->
+					<string>Edieresis</string> <!-- unicode 00CB -->
+					<string>Igrave</string> <!-- unicode 00CC -->
+					<string>Iacute</string> <!-- unicode 00CD -->
+					<string>Icircumflex</string> <!-- unicode 00CE -->
+					<string>Idieresis</string> <!-- unicode 00CF -->
+					<string>Eth</string> <!-- unicode 00D0 -->
+					<string>Ntilde</string> <!-- unicode 00D1 -->
+					<string>Ograve</string> <!-- unicode 00D2 -->
+					<string>Oacute</string> <!-- unicode 00D3 -->
+					<string>Ocircumflex</string> <!-- unicode 00D4 -->
+					<string>Otilde</string> <!-- unicode 00D5 -->
+					<string>Odieresis</string> <!-- unicode 00D6 -->
+					<string>Oslash</string> <!-- unicode 00D8 -->
+					<string>Ugrave</string> <!-- unicode 00D9 -->
+					<string>Uacute</string> <!-- unicode 00DA -->
+					<string>Ucircumflex</string> <!-- unicode 00DB -->
+					<string>Udieresis</string> <!-- unicode 00DC -->
+					<string>Yacute</string> <!-- unicode 00DD -->
+					<string>Thorn</string> <!-- unicode 00DE -->
+					<string>germandbls</string> <!-- unicode 00DF -->
+					<string>agrave</string> <!-- unicode 00E0 -->
+					<string>aacute</string> <!-- unicode 00E1 -->
+					<string>acircumflex</string> <!-- unicode 00E2 -->
+					<string>atilde</string> <!-- unicode 00E3 -->
+					<string>adieresis</string> <!-- unicode 00E4 -->
+					<string>aring</string> <!-- unicode 00E5 -->
+					<string>ae</string> <!-- unicode 00E6 -->
+					<string>ccedilla</string> <!-- unicode 00E7 -->
+					<string>egrave</string> <!-- unicode 00E8 -->
+					<string>eacute</string> <!-- unicode 00E9 -->
+					<string>ecircumflex</string> <!-- unicode 00EA -->
+					<string>edieresis</string> <!-- unicode 00EB -->
+					<string>igrave</string> <!-- unicode 00EC -->
+					<string>iacute</string> <!-- unicode 00ED -->
+					<string>icircumflex</string> <!-- unicode 00EE -->
+					<string>idieresis</string> <!-- unicode 00EF -->
+					<string>eth</string> <!-- unicode 00F0 -->
+					<string>ntilde</string> <!-- unicode 00F1 -->
+					<string>ograve</string> <!-- unicode 00F2 -->
+					<string>oacute</string> <!-- unicode 00F3 -->
+					<string>ocircumflex</string> <!-- unicode 00F4 -->
+					<string>otilde</string> <!-- unicode 00F5 -->
+					<string>odieresis</string> <!-- unicode 00F6 -->
+					<string>oslash</string> <!-- unicode 00F8 -->
+					<string>ugrave</string> <!-- unicode 00F9 -->
+					<string>uacute</string> <!-- unicode 00FA -->
+					<string>ucircumflex</string> <!-- unicode 00FB -->
+					<string>udieresis</string> <!-- unicode 00FC -->
+					<string>yacute</string> <!-- unicode 00FD -->
+					<string>thorn</string> <!-- unicode 00FE -->
+					<string>ydieresis</string> <!-- unicode 00FF -->
+					<string>Amacron</string> <!-- unicode 0100 -->
+					<string>amacron</string> <!-- unicode 0101 -->
+					<string>Abreve</string> <!-- unicode 0102 -->
+					<string>abreve</string> <!-- unicode 0103 -->
+					<string>Aogonek</string> <!-- unicode 0104 -->
+					<string>aogonek</string> <!-- unicode 0105 -->
+					<string>Cacute</string> <!-- unicode 0106 -->
+					<string>cacute</string> <!-- unicode 0107 -->
+					<string>Ccircumflex</string> <!-- unicode 0108 -->
+					<string>ccircumflex</string> <!-- unicode 0109 -->
+					<string>Cdotaccent</string> <!-- unicode 010A -->
+					<string>cdotaccent</string> <!-- unicode 010B -->
+					<string>Ccaron</string> <!-- unicode 010C -->
+					<string>ccaron</string> <!-- unicode 010D -->
+					<string>Dcaron</string> <!-- unicode 010E -->
+					<string>dcaron</string> <!-- unicode 010F -->
+					<string>Dcroat</string> <!-- unicode 0110 -->
+					<string>dcroat</string> <!-- unicode 0111 -->
+					<string>Emacron</string> <!-- unicode 0112 -->
+					<string>emacron</string> <!-- unicode 0113 -->
+					<string>Ebreve</string> <!-- unicode 0114 -->
+					<string>ebreve</string> <!-- unicode 0115 -->
+					<string>Edotaccent</string> <!-- unicode 0116 -->
+					<string>edotaccent</string> <!-- unicode 0117 -->
+					<string>Eogonek</string> <!-- unicode 0118 -->
+					<string>eogonek</string> <!-- unicode 0119 -->
+					<string>Ecaron</string> <!-- unicode 011A -->
+					<string>ecaron</string> <!-- unicode 011B -->
+					<string>Gcircumflex</string> <!-- unicode 011C -->
+					<string>gcircumflex</string> <!-- unicode 011D -->
+					<string>Gbreve</string> <!-- unicode 011E -->
+					<string>gbreve</string> <!-- unicode 011F -->
+					<string>Gdotaccent</string> <!-- unicode 0120 -->
+					<string>gdotaccent</string> <!-- unicode 0121 -->
+					<string>Gcommaaccent</string> <!-- unicode 0122 -->
+					<string>gcommaaccent</string> <!-- unicode 0123 -->
+					<string>Hcircumflex</string> <!-- unicode 0124 -->
+					<string>hcircumflex</string> <!-- unicode 0125 -->
+					<string>Hbar</string> <!-- unicode 0126 -->
+					<string>hbar</string> <!-- unicode 0127 -->
+					<string>Itilde</string> <!-- unicode 0128 -->
+					<string>itilde</string> <!-- unicode 0129 -->
+					<string>Imacron</string> <!-- unicode 012A -->
+					<string>imacron</string> <!-- unicode 012B -->
+					<string>Ibreve</string> <!-- unicode 012C -->
+					<string>ibreve</string> <!-- unicode 012D -->
+					<string>Iogonek</string> <!-- unicode 012E -->
+					<string>iogonek</string> <!-- unicode 012F -->
+					<string>Idotaccent</string> <!-- unicode 0130 -->
+					<string>idotless</string> <!-- unicode 0131 -->
+					<string>IJ</string> <!-- unicode 0132 -->
+					<string>ij</string> <!-- unicode 0133 -->
+					<string>Jcircumflex</string> <!-- unicode 0134 -->
+					<string>jcircumflex</string> <!-- unicode 0135 -->
+					<string>Kcommaaccent</string> <!-- unicode 0136 -->
+					<string>kcommaaccent</string> <!-- unicode 0137 -->
+					<string>kgreenlandic</string> <!-- unicode 0138 -->
+					<string>Lacute</string> <!-- unicode 0139 -->
+					<string>lacute</string> <!-- unicode 013A -->
+					<string>Lcommaaccent</string> <!-- unicode 013B -->
+					<string>lcommaaccent</string> <!-- unicode 013C -->
+					<string>Lcaron</string> <!-- unicode 013D -->
+					<string>lcaron</string> <!-- unicode 013E -->
+					<string>Ldot</string> <!-- unicode 013F -->
+					<string>ldot</string> <!-- unicode 0140 -->
+					<string>Lslash</string> <!-- unicode 0141 -->
+					<string>lslash</string> <!-- unicode 0142 -->
+					<string>Nacute</string> <!-- unicode 0143 -->
+					<string>nacute</string> <!-- unicode 0144 -->
+					<string>Ncommaaccent</string> <!-- unicode 0145 -->
+					<string>ncommaaccent</string> <!-- unicode 0146 -->
+					<string>Ncaron</string> <!-- unicode 0147 -->
+					<string>ncaron</string> <!-- unicode 0148 -->
+					<string>napostrophe</string> <!-- unicode 0149 -->
+					<string>Eng</string> <!-- unicode 014A -->
+					<string>eng</string> <!-- unicode 014B -->
+					<string>Omacron</string> <!-- unicode 014C -->
+					<string>omacron</string> <!-- unicode 014D -->
+					<string>Obreve</string> <!-- unicode 014E -->
+					<string>obreve</string> <!-- unicode 014F -->
+					<string>Ohungarumlaut</string> <!-- unicode 0150 -->
+					<string>ohungarumlaut</string> <!-- unicode 0151 -->
+					<string>OE</string> <!-- unicode 0152 -->
+					<string>oe</string> <!-- unicode 0153 -->
+					<string>Racute</string> <!-- unicode 0154 -->
+					<string>racute</string> <!-- unicode 0155 -->
+					<string>Rcommaaccent</string> <!-- unicode 0156 -->
+					<string>rcommaaccent</string> <!-- unicode 0157 -->
+					<string>Rcaron</string> <!-- unicode 0158 -->
+					<string>rcaron</string> <!-- unicode 0159 -->
+					<string>Sacute</string> <!-- unicode 015A -->
+					<string>sacute</string> <!-- unicode 015B -->
+					<string>Scircumflex</string> <!-- unicode 015C -->
+					<string>scircumflex</string> <!-- unicode 015D -->
+					<string>Scedilla</string> <!-- unicode 015E -->
+					<string>scedilla</string> <!-- unicode 015F -->
+					<string>Scaron</string> <!-- unicode 0160 -->
+					<string>scaron</string> <!-- unicode 0161 -->
+					<string>Tcedilla</string> <!-- unicode 0162 -->
+					<string>tcedilla</string> <!-- unicode 0163 -->
+					<string>Tcaron</string> <!-- unicode 0164 -->
+					<string>tcaron</string> <!-- unicode 0165 -->
+					<string>Tbar</string> <!-- unicode 0166 -->
+					<string>tbar</string> <!-- unicode 0167 -->
+					<string>Utilde</string> <!-- unicode 0168 -->
+					<string>utilde</string> <!-- unicode 0169 -->
+					<string>Umacron</string> <!-- unicode 016A -->
+					<string>umacron</string> <!-- unicode 016B -->
+					<string>Ubreve</string> <!-- unicode 016C -->
+					<string>ubreve</string> <!-- unicode 016D -->
+					<string>Uring</string> <!-- unicode 016E -->
+					<string>uring</string> <!-- unicode 016F -->
+					<string>Uhungarumlaut</string> <!-- unicode 0170 -->
+					<string>uhungarumlaut</string> <!-- unicode 0171 -->
+					<string>Uogonek</string> <!-- unicode 0172 -->
+					<string>uogonek</string> <!-- unicode 0173 -->
+					<string>Wcircumflex</string> <!-- unicode 0174 -->
+					<string>wcircumflex</string> <!-- unicode 0175 -->
+					<string>Ycircumflex</string> <!-- unicode 0176 -->
+					<string>ycircumflex</string> <!-- unicode 0177 -->
+					<string>Ydieresis</string> <!-- unicode 0178 -->
+					<string>Zacute</string> <!-- unicode 0179 -->
+					<string>zacute</string> <!-- unicode 017A -->
+					<string>Zdotaccent</string> <!-- unicode 017B -->
+					<string>zdotaccent</string> <!-- unicode 017C -->
+					<string>Zcaron</string> <!-- unicode 017D -->
+					<string>zcaron</string> <!-- unicode 017E -->
+					<string>Chook</string> <!-- unicode 0187 -->
+					<string>chook</string> <!-- unicode 0188 -->
+					<string>Schwa</string> <!-- unicode 018F -->
+					<string>Istroke</string> <!-- unicode 0197 -->
+					<string>Ohorn</string> <!-- unicode 01A0 -->
+					<string>ohorn</string> <!-- unicode 01A1 -->
+					<string>Uhorn</string> <!-- unicode 01AF -->
+					<string>uhorn</string> <!-- unicode 01B0 -->
+					<string>Ezh</string> <!-- unicode 01B7 -->
+					<string>Acaron</string> <!-- unicode 01CD -->
+					<string>acaron</string> <!-- unicode 01CE -->
+					<string>Icaron</string> <!-- unicode 01CF -->
+					<string>icaron</string> <!-- unicode 01D0 -->
+					<string>Ocaron</string> <!-- unicode 01D1 -->
+					<string>ocaron</string> <!-- unicode 01D2 -->
+					<string>Ucaron</string> <!-- unicode 01D3 -->
+					<string>ucaron</string> <!-- unicode 01D4 -->
+					<string>Udieresismacron</string> <!-- unicode 01D5 -->
+					<string>udieresismacron</string> <!-- unicode 01D6 -->
+					<string>Udieresisacute</string> <!-- unicode 01D7 -->
+					<string>udieresisacute</string> <!-- unicode 01D8 -->
+					<string>Udieresiscaron</string> <!-- unicode 01D9 -->
+					<string>udieresiscaron</string> <!-- unicode 01DA -->
+					<string>Udieresisgrave</string> <!-- unicode 01DB -->
+					<string>udieresisgrave</string> <!-- unicode 01DC -->
+					<string>Adieresismacron</string> <!-- unicode 01DE -->
+					<string>adieresismacron</string> <!-- unicode 01DF -->
+					<string>AEmacron</string> <!-- unicode 01E2 -->
+					<string>aemacron</string> <!-- unicode 01E3 -->
+					<string>Gstroke</string> <!-- unicode 01E4 -->
+					<string>gstroke</string> <!-- unicode 01E5 -->
+					<string>Gcaron</string> <!-- unicode 01E6 -->
+					<string>gcaron</string> <!-- unicode 01E7 -->
+					<string>Kcaron</string> <!-- unicode 01E8 -->
+					<string>kcaron</string> <!-- unicode 01E9 -->
+					<string>Oogonek</string> <!-- unicode 01EA -->
+					<string>oogonek</string> <!-- unicode 01EB -->
+					<string>Oogonekmacron</string> <!-- unicode 01EC -->
+					<string>oogonekmacron</string> <!-- unicode 01ED -->
+					<string>Ezhcaron</string> <!-- unicode 01EE -->
+					<string>ezhcaron</string> <!-- unicode 01EF -->
+					<string>jcaron</string> <!-- unicode 01F0 -->
+					<string>Gacute</string> <!-- unicode 01F4 -->
+					<string>gacute</string> <!-- unicode 01F5 -->
+					<string>Ngrave</string> <!-- unicode 01F8 -->
+					<string>ngrave</string> <!-- unicode 01F9 -->
+					<string>Aringacute</string> <!-- unicode 01FA -->
+					<string>aringacute</string> <!-- unicode 01FB -->
+					<string>AEacute</string> <!-- unicode 01FC -->
+					<string>aeacute</string> <!-- unicode 01FD -->
+					<string>Oslashacute</string> <!-- unicode 01FE -->
+					<string>oslashacute</string> <!-- unicode 01FF -->
+					<string>Rinvertedbreve</string> <!-- unicode 0212 -->
+					<string>rinvertedbreve</string> <!-- unicode 0213 -->
+					<string>Scommaaccent</string> <!-- unicode 0218 -->
+					<string>scommaaccent</string> <!-- unicode 0219 -->
+					<string>Tcommaaccent</string> <!-- unicode 021A -->
+					<string>tcommaaccent</string> <!-- unicode 021B -->
+					<string>Hcaron</string> <!-- unicode 021E -->
+					<string>hcaron</string> <!-- unicode 021F -->
+					<string>adotaccent</string> <!-- unicode 0227 -->
+					<string>Ecedilla</string> <!-- unicode 0228 -->
+					<string>ecedilla</string> <!-- unicode 0229 -->
+					<string>Odieresismacron</string> <!-- unicode 022A -->
+					<string>odieresismacron</string> <!-- unicode 022B -->
+					<string>Otildemacron</string> <!-- unicode 022C -->
+					<string>otildemacron</string> <!-- unicode 022D -->
+					<string>Odotaccent</string> <!-- unicode 022E -->
+					<string>odotaccent</string> <!-- unicode 022F -->
+					<string>Odotaccentmacron</string> <!-- unicode 0230 -->
+					<string>odotaccentmacron</string> <!-- unicode 0231 -->
+					<string>Ymacron</string> <!-- unicode 0232 -->
+					<string>ymacron</string> <!-- unicode 0233 -->
+					<string>schwa</string> <!-- unicode 0259 -->
+					<string>istroke</string> <!-- unicode 0268 -->
+					<string>ezh</string> <!-- unicode 0292 -->
+					<string>Bdotaccent</string> <!-- unicode 1E02 -->
+					<string>bdotaccent</string> <!-- unicode 1E03 -->
+					<string>Bmacronbelow</string> <!-- unicode 1E06 -->
+					<string>bmacronbelow</string> <!-- unicode 1E07 -->
+					<string>Ddotaccent</string> <!-- unicode 1E0A -->
+					<string>ddotaccent</string> <!-- unicode 1E0B -->
+					<string>Ddotbelow</string> <!-- unicode 1E0C -->
+					<string>ddotbelow</string> <!-- unicode 1E0D -->
+					<string>Dmacronbelow</string> <!-- unicode 1E0E -->
+					<string>dmacronbelow</string> <!-- unicode 1E0F -->
+					<string>Dcedilla</string> <!-- unicode 1E10 -->
+					<string>dcedilla</string> <!-- unicode 1E11 -->
+					<string>emacronacute</string> <!-- unicode 1E17 -->
+					<string>Ecedillabreve</string> <!-- unicode 1E1C -->
+					<string>ecedillabreve</string> <!-- unicode 1E1D -->
+					<string>Fdotaccent</string> <!-- unicode 1E1E -->
+					<string>fdotaccent</string> <!-- unicode 1E1F -->
+					<string>Gmacron</string> <!-- unicode 1E20 -->
+					<string>gmacron</string> <!-- unicode 1E21 -->
+					<string>Hdotaccent</string> <!-- unicode 1E22 -->
+					<string>hdotaccent</string> <!-- unicode 1E23 -->
+					<string>Hdotbelow</string> <!-- unicode 1E24 -->
+					<string>hdotbelow</string> <!-- unicode 1E25 -->
+					<string>Hdieresis</string> <!-- unicode 1E26 -->
+					<string>hdieresis</string> <!-- unicode 1E27 -->
+					<string>Hcedilla</string> <!-- unicode 1E28 -->
+					<string>hcedilla</string> <!-- unicode 1E29 -->
+					<string>Hbrevebelow</string> <!-- unicode 1E2A -->
+					<string>hbrevebelow</string> <!-- unicode 1E2B -->
+					<string>idieresisacute</string> <!-- unicode 1E2F -->
+					<string>Kacute</string> <!-- unicode 1E30 -->
+					<string>kacute</string> <!-- unicode 1E31 -->
+					<string>Kdotbelow</string> <!-- unicode 1E32 -->
+					<string>kdotbelow</string> <!-- unicode 1E33 -->
+					<string>Kmacronbelow</string> <!-- unicode 1E34 -->
+					<string>kmacronbelow</string> <!-- unicode 1E35 -->
+					<string>Ldotbelow</string> <!-- unicode 1E36 -->
+					<string>ldotbelow</string> <!-- unicode 1E37 -->
+					<string>Lmacronbelow</string> <!-- unicode 1E3A -->
+					<string>lmacronbelow</string> <!-- unicode 1E3B -->
+					<string>Mdotaccent</string> <!-- unicode 1E40 -->
+					<string>mdotaccent</string> <!-- unicode 1E41 -->
+					<string>Mdotbelow</string> <!-- unicode 1E42 -->
+					<string>mdotbelow</string> <!-- unicode 1E43 -->
+					<string>Ndotaccent</string> <!-- unicode 1E44 -->
+					<string>ndotaccent</string> <!-- unicode 1E45 -->
+					<string>Ndotbelow</string> <!-- unicode 1E46 -->
+					<string>ndotbelow</string> <!-- unicode 1E47 -->
+					<string>Nmacronbelow</string> <!-- unicode 1E48 -->
+					<string>nmacronbelow</string> <!-- unicode 1E49 -->
+					<string>Omacronacute</string> <!-- unicode 1E52 -->
+					<string>omacronacute</string> <!-- unicode 1E53 -->
+					<string>Pacute</string> <!-- unicode 1E54 -->
+					<string>pacute</string> <!-- unicode 1E55 -->
+					<string>Pdotaccent</string> <!-- unicode 1E56 -->
+					<string>pdotaccent</string> <!-- unicode 1E57 -->
+					<string>Rdotaccent</string> <!-- unicode 1E58 -->
+					<string>rdotaccent</string> <!-- unicode 1E59 -->
+					<string>Rdotbelow</string> <!-- unicode 1E5A -->
+					<string>rdotbelow</string> <!-- unicode 1E5B -->
+					<string>Rmacronbelow</string> <!-- unicode 1E5E -->
+					<string>rmacronbelow</string> <!-- unicode 1E5F -->
+					<string>Sdotaccent</string> <!-- unicode 1E60 -->
+					<string>sdotaccent</string> <!-- unicode 1E61 -->
+					<string>Sdotbelow</string> <!-- unicode 1E62 -->
+					<string>sdotbelow</string> <!-- unicode 1E63 -->
+					<string>Tdotaccent</string> <!-- unicode 1E6A -->
+					<string>tdotaccent</string> <!-- unicode 1E6B -->
+					<string>Tdotbelow</string> <!-- unicode 1E6C -->
+					<string>tdotbelow</string> <!-- unicode 1E6D -->
+					<string>Tmacronbelow</string> <!-- unicode 1E6E -->
+					<string>tmacronbelow</string> <!-- unicode 1E6F -->
+					<string>Wgrave</string> <!-- unicode 1E80 -->
+					<string>wgrave</string> <!-- unicode 1E81 -->
+					<string>Wacute</string> <!-- unicode 1E82 -->
+					<string>wacute</string> <!-- unicode 1E83 -->
+					<string>Wdieresis</string> <!-- unicode 1E84 -->
+					<string>wdieresis</string> <!-- unicode 1E85 -->
+					<string>Wdotaccent</string> <!-- unicode 1E86 -->
+					<string>wdotaccent</string> <!-- unicode 1E87 -->
+					<string>Xdieresis</string> <!-- unicode 1E8C -->
+					<string>xdieresis</string> <!-- unicode 1E8D -->
+					<string>Ydotaccent</string> <!-- unicode 1E8E -->
+					<string>ydotaccent</string> <!-- unicode 1E8F -->
+					<string>Zcircumflex</string> <!-- unicode 1E90 -->
+					<string>zcircumflex</string> <!-- unicode 1E91 -->
+					<string>Zdotbelow</string> <!-- unicode 1E92 -->
+					<string>zdotbelow</string> <!-- unicode 1E93 -->
+					<string>Zmacronbelow</string> <!-- unicode 1E94 -->
+					<string>zmacronbelow</string> <!-- unicode 1E95 -->
+					<string>hmacronbelow</string> <!-- unicode 1E96 -->
+					<string>tdieresis</string> <!-- unicode 1E97 -->
+					<string>Germandbls</string> <!-- unicode 1E9E -->
+					<string>Adotbelow</string> <!-- unicode 1EA0 -->
+					<string>adotbelow</string> <!-- unicode 1EA1 -->
+					<string>Ahookabove</string> <!-- unicode 1EA2 -->
+					<string>ahookabove</string> <!-- unicode 1EA3 -->
+					<string>Acircumflexacute</string> <!-- unicode 1EA4 -->
+					<string>acircumflexacute</string> <!-- unicode 1EA5 -->
+					<string>Acircumflexgrave</string> <!-- unicode 1EA6 -->
+					<string>acircumflexgrave</string> <!-- unicode 1EA7 -->
+					<string>Acircumflexhookabove</string> <!-- unicode 1EA8 -->
+					<string>acircumflexhookabove</string> <!-- unicode 1EA9 -->
+					<string>Acircumflextilde</string> <!-- unicode 1EAA -->
+					<string>acircumflextilde</string> <!-- unicode 1EAB -->
+					<string>Acircumflexdotbelow</string> <!-- unicode 1EAC -->
+					<string>acircumflexdotbelow</string> <!-- unicode 1EAD -->
+					<string>Abreveacute</string> <!-- unicode 1EAE -->
+					<string>abreveacute</string> <!-- unicode 1EAF -->
+					<string>Abrevegrave</string> <!-- unicode 1EB0 -->
+					<string>abrevegrave</string> <!-- unicode 1EB1 -->
+					<string>Abrevehookabove</string> <!-- unicode 1EB2 -->
+					<string>abrevehookabove</string> <!-- unicode 1EB3 -->
+					<string>Abrevetilde</string> <!-- unicode 1EB4 -->
+					<string>abrevetilde</string> <!-- unicode 1EB5 -->
+					<string>Abrevedotbelow</string> <!-- unicode 1EB6 -->
+					<string>abrevedotbelow</string> <!-- unicode 1EB7 -->
+					<string>Edotbelow</string> <!-- unicode 1EB8 -->
+					<string>edotbelow</string> <!-- unicode 1EB9 -->
+					<string>Ehookabove</string> <!-- unicode 1EBA -->
+					<string>ehookabove</string> <!-- unicode 1EBB -->
+					<string>Etilde</string> <!-- unicode 1EBC -->
+					<string>etilde</string> <!-- unicode 1EBD -->
+					<string>Ecircumflexacute</string> <!-- unicode 1EBE -->
+					<string>ecircumflexacute</string> <!-- unicode 1EBF -->
+					<string>Ecircumflexgrave</string> <!-- unicode 1EC0 -->
+					<string>ecircumflexgrave</string> <!-- unicode 1EC1 -->
+					<string>Ecircumflexhookabove</string> <!-- unicode 1EC2 -->
+					<string>ecircumflexhookabove</string> <!-- unicode 1EC3 -->
+					<string>Ecircumflextilde</string> <!-- unicode 1EC4 -->
+					<string>ecircumflextilde</string> <!-- unicode 1EC5 -->
+					<string>Ecircumflexdotbelow</string> <!-- unicode 1EC6 -->
+					<string>ecircumflexdotbelow</string> <!-- unicode 1EC7 -->
+					<string>Ihookabove</string> <!-- unicode 1EC8 -->
+					<string>ihookabove</string> <!-- unicode 1EC9 -->
+					<string>Idotbelow</string> <!-- unicode 1ECA -->
+					<string>idotbelow</string> <!-- unicode 1ECB -->
+					<string>Odotbelow</string> <!-- unicode 1ECC -->
+					<string>odotbelow</string> <!-- unicode 1ECD -->
+					<string>Ohookabove</string> <!-- unicode 1ECE -->
+					<string>ohookabove</string> <!-- unicode 1ECF -->
+					<string>Ocircumflexacute</string> <!-- unicode 1ED0 -->
+					<string>ocircumflexacute</string> <!-- unicode 1ED1 -->
+					<string>Ocircumflexgrave</string> <!-- unicode 1ED2 -->
+					<string>ocircumflexgrave</string> <!-- unicode 1ED3 -->
+					<string>Ocircumflexhookabove</string> <!-- unicode 1ED4 -->
+					<string>ocircumflexhookabove</string> <!-- unicode 1ED5 -->
+					<string>Ocircumflextilde</string> <!-- unicode 1ED6 -->
+					<string>ocircumflextilde</string> <!-- unicode 1ED7 -->
+					<string>Ocircumflexdotbelow</string> <!-- unicode 1ED8 -->
+					<string>ocircumflexdotbelow</string> <!-- unicode 1ED9 -->
+					<string>Ohornacute</string> <!-- unicode 1EDA -->
+					<string>ohornacute</string> <!-- unicode 1EDB -->
+					<string>Ohorngrave</string> <!-- unicode 1EDC -->
+					<string>ohorngrave</string> <!-- unicode 1EDD -->
+					<string>Ohornhookabove</string> <!-- unicode 1EDE -->
+					<string>ohornhookabove</string> <!-- unicode 1EDF -->
+					<string>Ohorntilde</string> <!-- unicode 1EE0 -->
+					<string>ohorntilde</string> <!-- unicode 1EE1 -->
+					<string>Ohorndotbelow</string> <!-- unicode 1EE2 -->
+					<string>ohorndotbelow</string> <!-- unicode 1EE3 -->
+					<string>Udotbelow</string> <!-- unicode 1EE4 -->
+					<string>udotbelow</string> <!-- unicode 1EE5 -->
+					<string>Uhookabove</string> <!-- unicode 1EE6 -->
+					<string>uhookabove</string> <!-- unicode 1EE7 -->
+					<string>Uhornacute</string> <!-- unicode 1EE8 -->
+					<string>uhornacute</string> <!-- unicode 1EE9 -->
+					<string>Uhorngrave</string> <!-- unicode 1EEA -->
+					<string>uhorngrave</string> <!-- unicode 1EEB -->
+					<string>Uhornhookabove</string> <!-- unicode 1EEC -->
+					<string>uhornhookabove</string> <!-- unicode 1EED -->
+					<string>Uhorntilde</string> <!-- unicode 1EEE -->
+					<string>uhorntilde</string> <!-- unicode 1EEF -->
+					<string>Uhorndotbelow</string> <!-- unicode 1EF0 -->
+					<string>uhorndotbelow</string> <!-- unicode 1EF1 -->
+					<string>Ygrave</string> <!-- unicode 1EF2 -->
+					<string>ygrave</string> <!-- unicode 1EF3 -->
+					<string>Ydotbelow</string> <!-- unicode 1EF4 -->
+					<string>ydotbelow</string> <!-- unicode 1EF5 -->
+					<string>Yhookabove</string> <!-- unicode 1EF6 -->
+					<string>yhookabove</string> <!-- unicode 1EF7 -->
+					<string>Ytilde</string> <!-- unicode 1EF8 -->
+					<string>ytilde</string> <!-- unicode 1EF9 -->
+					<string>hungarumlautcomb</string> <!-- unicode 030B -->
+					<!-- bll; seq; 0041 030B; LATIN CAPITAL LETTER A WITH COMBINING DOUBLE ACUTE ACCENT; A̋ -->
+					<string>gravecomb</string> <!-- unicode 0300 -->
+					<!-- bll; seq; 0043 0300; LATIN CAPITAL LETTER C WITH COMBINING GRAVE ACCENT; C̀ -->
+					<string>macroncomb</string> <!-- unicode 0304 -->
+					<!-- bll; seq; 0043 0304; LATIN CAPITAL LETTER C WITH COMBINING MACRON; C̄ -->
+					<string>brevecomb</string> <!-- unicode 0306 -->
+					<!-- bll; seq; 0043 0306; LATIN CAPITAL LETTER C WITH COMBINING BREVE; C̆ -->
+					<string>dieresiscomb</string> <!-- unicode 0308 -->
+					<!-- bll; seq; 0043 0308; LATIN CAPITAL LETTER C WITH COMBINING DIAERESIS; C̈ -->
+					<string>commaaboverightcomb</string> <!-- unicode 0315 -->
+					<!-- bll; seq; 0043 0315; LATIN CAPITAL LETTER C WITH COMBINING COMMA ABOVE RIGHT; C̕ -->
+					<string>dotbelowcomb</string> <!-- unicode 0323 -->
+					<!-- bll; seq; 0043 0323; LATIN CAPITAL LETTER C WITH COMBINING DOT BELOW; C̣ -->
+					<string>commaaccentcomb</string> <!-- unicode 0326 -->
+					<!-- bll; seq; 0043 0326; LATIN CAPITAL LETTER C WITH COMBINING COMMA BELOW; C̦ -->
+					<string>ogonekcomb</string> <!-- unicode 0328 -->
+					<!-- bll; seq; 0043 0328 0306; LATIN CAPITAL LETTER C WITH COMBINING OGONEK AND COMBINING BREVE; C̨̆ -->
+					<string>circumflexcomb</string> <!-- unicode 0302 -->
+					<!-- bll; seq; 0044 0302; LATIN CAPITAL LETTER D WITH COMBINING CIRCUMFLEX ACCENT; D̂ -->
+					<!-- bll; seq; 0046 0300; LATIN CAPITAL LETTER F WITH COMBINING GRAVE ACCENT; F̀ -->
+					<!-- bll; seq; 0046 0304; LATIN CAPITAL LETTER F WITH COMBINING MACRON; F̄ -->
+					<!-- bll; seq; 0047 0300; LATIN CAPITAL LETTER G WITH COMBINING GRAVE ACCENT; G̀ -->
+					<!-- bll; seq; 0048 0304; LATIN CAPITAL LETTER H WITH COMBINING MACRON; H̄ -->
+					<!-- bll; seq; 0048 0326; LATIN CAPITAL LETTER H WITH COMBINING COMMA BELOW; H̦ -->
+					<string>macronbelowcomb</string> <!-- unicode 0331 -->
+					<!-- bll; seq; 0048 0331; LATIN CAPITAL LETTER H WITH COMBINING MACRON BELOW; H̱ -->
+					<string>acutecomb</string> <!-- unicode 0301 -->
+					<!-- bll; seq; 004A 0301; LATIN CAPITAL LETTER J WITH COMBINING ACUTE ACCENT; J́ -->
+					<string>caroncomb</string> <!-- unicode 030C -->
+					<!-- bll; seq; 004A 030C; LATIN CAPITAL LETTER J WITH COMBINING CARON; J̌ -->
+					<!-- bll; seq; 004B 0300; LATIN CAPITAL LETTER K WITH COMBINING GRAVE ACCENT; K̀ -->
+					<!-- bll; seq; 004B 0302; LATIN CAPITAL LETTER K WITH COMBINING CIRCUMFLEX ACCENT; K̂ -->
+					<!-- bll; seq; 004B 0304; LATIN CAPITAL LETTER K WITH COMBINING MACRON; K̄ -->
+					<string>dotaccentcomb</string> <!-- unicode 0307 -->
+					<!-- bll; seq; 004B 0307; LATIN CAPITAL LETTER K WITH COMBINING DOT ABOVE; K̇ -->
+					<!-- bll; seq; 004B 0315; LATIN CAPITAL LETTER K WITH COMBINING COMMA ABOVE RIGHT; K̕ -->
+					<string>horncomb</string> <!-- unicode 031B -->
+					<!-- bll; seq; 004B 031B; LATIN CAPITAL LETTER K WITH COMBINING HORN; K̛ -->
+					<!-- bll; seq; 004B 0326; LATIN CAPITAL LETTER K WITH COMBINING COMMA BELOW; K̦ -->
+					<string>doublemacronbelowcomb</string> <!-- unicode 035F -->
+					<!-- bll; seq; 004B 035F 0048; LATIN CAPITAL LETTER K WITH COMBINING DOUBLE MACRON BELOW AND LATIN CAPITAL LETTER H; K͟H -->
+					<!-- bll; seq; 004B 035F 0068; LATIN CAPITAL LETTER K WITH COMBINING DOUBLE MACRON BELOW AND LATIN SMALL LETTER H; K͟h -->
+					<!-- bll; seq; 004C 0302; LATIN CAPITAL LETTER L WITH COMBINING CIRCUMFLEX ACCENT; L̂ -->
+					<string>ringbelowcomb</string> <!-- unicode 0325 -->
+					<!-- bll; seq; 004C 0325; LATIN CAPITAL LETTER L WITH COMBINING RING BELOW; L̥ -->
+					<!-- bll; seq; 004C 0325 0304; LATIN CAPITAL LETTER L WITH COMBINING RING BELOW AND COMBINING MACRON; L̥̄ -->
+					<!-- bll; seq; 004C 0326; LATIN CAPITAL LETTER L WITH COMBINING COMMA BELOW; L̦ -->
+					<!-- bll; seq; 004D 0300; LATIN CAPITAL LETTER M WITH COMBINING GRAVE ACCENT; M̀ -->
+					<!-- bll; seq; 004D 0302; LATIN CAPITAL LETTER M WITH COMBINING CIRCUMFLEX ACCENT; M̂ -->
+					<!-- bll; seq; 004D 0306; LATIN CAPITAL LETTER M WITH COMBINING BREVE; M̆ -->
+					<string>candraBinducomb</string> <!-- unicode 0310 -->
+					<!-- bll; seq; 004D 0310; LATIN CAPITAL LETTER M WITH COMBINING CANDRABINDU; M̐ -->
+					<!-- bll; seq; 004E 0302; LATIN CAPITAL LETTER N WITH COMBINING CIRCUMFLEX ACCENT; N̂ -->
+					<!-- bll; seq; 004E 0304; LATIN CAPITAL LETTER N WITH COMBINING MACRON; N̄ -->
+					<!-- bll; seq; 004E 0306; LATIN CAPITAL LETTER N WITH COMBINING BREVE; N̆ -->
+					<!-- bll; seq; 004E 0326; LATIN CAPITAL LETTER N WITH COMBINING COMMA BELOW; N̦ -->
+					<!-- bll; seq; 0050 0300; LATIN CAPITAL LETTER P WITH COMBINING GRAVE ACCENT; P̀ -->
+					<!-- bll; seq; 0050 0304; LATIN CAPITAL LETTER P WITH COMBINING MACRON; P̄ -->
+					<!-- bll; seq; 0050 0315; LATIN CAPITAL LETTER P WITH COMBINING COMMA ABOVE RIGHT; P̕ -->
+					<!-- bll; seq; 0050 0323; LATIN CAPITAL LETTER P WITH COMBINING DOT BELOW; P̣ -->
+					<!-- bll; seq; 0052 0306; LATIN CAPITAL LETTER R WITH COMBINING BREVE; R̆ -->
+					<!-- bll; seq; 0052 0325; LATIN CAPITAL LETTER R WITH COMBINING RING BELOW; R̥ -->
+					<!-- bll; seq; 0052 0325 0304; LATIN CAPITAL LETTER R WITH COMBINING RING BELOW AND COMBINING MACRON; R̥̄ -->
+					<!-- bll; seq; 0053 0300; LATIN CAPITAL LETTER S WITH COMBINING GRAVE ACCENT; S̀ -->
+					<!-- bll; seq; 0053 0304; LATIN CAPITAL LETTER S WITH COMBINING MACRON; S̄ -->
+					<!-- bll; seq; 0053 031B 0304; LATIN CAPITAL LETTER S WITH COMBINING HORN AND COMBINING MACRON; S̛̄ -->
+					<!-- bll; seq; 0053 0331; LATIN CAPITAL LETTER S WITH COMBINING MACRON BELOW; S̱ -->
+					<!-- bll; seq; 0054 0300; LATIN CAPITAL LETTER T WITH COMBINING GRAVE ACCENT; T̀ -->
+					<!-- bll; seq; 0054 0304; LATIN CAPITAL LETTER T WITH COMBINING MACRON; T̄ -->
+					<!-- bll; seq; 0054 0308; LATIN CAPITAL LETTER T WITH COMBINING DIAERESIS; T̈ -->
+					<!-- bll; seq; 0054 0315; LATIN CAPITAL LETTER T WITH COMBINING COMMA ABOVE RIGHT; T̕ -->
+					<!-- bll; seq; 0054 031B; LATIN CAPITAL LETTER T WITH COMBINING HORN; T̛ -->
+					<!-- bll; seq; 0055 0307; LATIN CAPITAL LETTER U WITH COMBINING DOT ABOVE; U̇ -->
+					<!-- bll; seq; 005A 0300; LATIN CAPITAL LETTER Z WITH COMBINING GRAVE ACCENT; Z̀ -->
+					<!-- bll; seq; 005A 0304; LATIN CAPITAL LETTER Z WITH COMBINING MACRON; Z̄ -->
+					<!-- bll; seq; 005A 0306; LATIN CAPITAL LETTER Z WITH COMBINING BREVE; Z̆ -->
+					<!-- bll; seq; 005A 0308; LATIN CAPITAL LETTER Z WITH COMBINING DIAERESIS; Z̈ -->
+					<string>cedillacomb</string> <!-- unicode 0327 -->
+					<!-- bll; seq; 005A 0327; LATIN CAPITAL LETTER Z WITH COMBINING CEDILLA; Z̧ -->
+					<!-- bll; seq; 0061 030B; LATIN SMALL LETTER A WITH COMBINING DOUBLE ACUTE ACCENT; a̋ -->
+					<!-- bll; seq; 0063 0300; LATIN SMALL LETTER C WITH COMBINING GRAVE ACCENT; c̀ -->
+					<!-- bll; seq; 0063 0304; LATIN SMALL LETTER C WITH COMBINING MACRON; c̄ -->
+					<!-- bll; seq; 0063 0306; LATIN SMALL LETTER C WITH COMBINING BREVE; c̆ -->
+					<!-- bll; seq; 0063 0308; LATIN SMALL LETTER C WITH COMBINING DIAERESIS; c̈ -->
+					<!-- bll; seq; 0063 0315; LATIN SMALL LETTER C WITH COMBINING COMMA ABOVE RIGHT; c̕ -->
+					<!-- bll; seq; 0063 0323; LATIN SMALL LETTER C WITH COMBINING DOT BELOW; c̣ -->
+					<!-- bll; seq; 0063 0326; LATIN SMALL LETTER C WITH COMBINING COMMA BELOW; c̦ -->
+					<!-- bll; seq; 0063 0328 0306; LATIN SMALL LETTER C WITH COMBINING OGONEK AND COMBINING BREVE; c̨̆ -->
+					<!-- bll; seq; 0064 0302; LATIN SMALL LETTER D WITH COMBINING CIRCUMFLEX ACCENT; d̂ -->
+					<!-- bll; seq; 0066 0300; LATIN SMALL LETTER F WITH COMBINING GRAVE ACCENT; f̀ -->
+					<!-- bll; seq; 0066 0304; LATIN SMALL LETTER F WITH COMBINING MACRON; f̄ -->
+					<!-- bll; seq; 0067 0300; LATIN SMALL LETTER G WITH COMBINING GRAVE ACCENT; g̀ -->
+					<!-- bll; seq; 0068 0304; LATIN SMALL LETTER H WITH COMBINING MACRON; h̄ -->
+					<!-- bll; seq; 0068 0326; LATIN SMALL LETTER H WITH COMBINING COMMA BELOW; h̦ -->
+					<!-- bll; seq; 006A 0301; LATIN SMALL LETTER J WITH COMBINING ACUTE ACCENT; j́ -->
+					<!-- bll; seq; 006B 0300; LATIN SMALL LETTER K WITH COMBINING GRAVE ACCENT; k̀ -->
+					<!-- bll; seq; 006B 0302; LATIN SMALL LETTER K WITH COMBINING CIRCUMFLEX ACCENT; k̂ -->
+					<!-- bll; seq; 006B 0304; LATIN SMALL LETTER K WITH COMBINING MACRON; k̄ -->
+					<!-- bll; seq; 006B 0307; LATIN SMALL LETTER K WITH COMBINING DOT ABOVE; k̇ -->
+					<!-- bll; seq; 006B 0315; LATIN SMALL LETTER K WITH COMBINING COMMA ABOVE RIGHT; k̕ -->
+					<!-- bll; seq; 006B 031B; LATIN SMALL LETTER K WITH COMBINING HORN; k̛ -->
+					<!-- bll; seq; 006B 0326; LATIN SMALL LETTER K WITH COMBINING COMMA BELOW; k̦ -->
+					<!-- bll; seq; 006B 035F 0068; LATIN SMALL LETTER K WITH COMBINING DOUBLE MACRON BELOW AND LATIN SMALL LETTER H; k͟h -->
+					<!-- bll; seq; 006C 0302; LATIN SMALL LETTER L WITH COMBINING CIRCUMFLEX ACCENT; l̂ -->
+					<!-- bll; seq; 006C 0325; LATIN SMALL LETTER L WITH COMBINING RING BELOW; l̥ -->
+					<!-- bll; seq; 006C 0325 0304; LATIN SMALL LETTER L WITH COMBINING RING BELOW AND COMBINING MACRON; l̥̄ -->
+					<!-- bll; seq; 006C 0326; LATIN SMALL LETTER L WITH COMBINING COMMA BELOW; l̦ -->
+					<!-- bll; seq; 006D 0300; LATIN SMALL LETTER M WITH COMBINING GRAVE ACCENT; m̀ -->
+					<!-- bll; seq; 006D 0302; LATIN SMALL LETTER M WITH COMBINING CIRCUMFLEX ACCENT; m̂ -->
+					<!-- bll; seq; 006D 0306; LATIN SMALL LETTER M WITH COMBINING BREVE; m̆ -->
+					<!-- bll; seq; 006D 0310; LATIN SMALL LETTER M WITH COMBINING CANDRABINDU; m̐ -->
+					<!-- bll; seq; 006E 0302; LATIN SMALL LETTER N WITH COMBINING CIRCUMFLEX ACCENT; n̂ -->
+					<!-- bll; seq; 006E 0304; LATIN SMALL LETTER N WITH COMBINING MACRON; n̄ -->
+					<!-- bll; seq; 006E 0306; LATIN SMALL LETTER N WITH COMBINING BREVE; n̆ -->
+					<!-- bll; seq; 006E 0326; LATIN SMALL LETTER N WITH COMBINING COMMA BELOW; n̦ -->
+					<!-- bll; seq; 0070 0300; LATIN SMALL LETTER P WITH COMBINING GRAVE ACCENT; p̀ -->
+					<!-- bll; seq; 0070 0304; LATIN SMALL LETTER P WITH COMBINING MACRON; p̄ -->
+					<!-- bll; seq; 0070 0315; LATIN SMALL LETTER P WITH COMBINING COMMA ABOVE RIGHT; p̕ -->
+					<!-- bll; seq; 0070 0323; LATIN SMALL LETTER P WITH COMBINING DOT BELOW; p̣ -->
+					<!-- bll; seq; 0072 0306; LATIN SMALL LETTER R WITH COMBINING BREVE; r̆ -->
+					<!-- bll; seq; 0072 0325; LATIN SMALL LETTER R WITH COMBINING RING BELOW; r̥ -->
+					<!-- bll; seq; 0072 0325 0304; LATIN SMALL LETTER R WITH COMBINING RING BELOW AND COMBINING MACRON; r̥̄ -->
+					<!-- bll; seq; 0073 0300; LATIN SMALL LETTER S WITH COMBINING GRAVE ACCENT; s̀ -->
+					<!-- bll; seq; 0073 0304; LATIN SMALL LETTER S WITH COMBINING MACRON; s̄ -->
+					<!-- bll; seq; 0073 031B 0304; LATIN SMALL LETTER S WITH COMBINING HORN AND COMBINING MACRON; s̛̄ -->
+					<!-- bll; seq; 0073 0331; LATIN SMALL LETTER S WITH COMBINING MACRON BELOW; s̱ -->
+					<!-- bll; seq; 0074 0300; LATIN SMALL LETTER T WITH COMBINING GRAVE ACCENT; t̀ -->
+					<!-- bll; seq; 0074 0304; LATIN SMALL LETTER T WITH COMBINING MACRON; t̄ -->
+					<!-- bll; seq; 0074 0315; LATIN SMALL LETTER T WITH COMBINING COMMA ABOVE RIGHT; t̕ -->
+					<!-- bll; seq; 0074 031B; LATIN SMALL LETTER T WITH COMBINING HORN; t̛ -->
+					<!-- bll; seq; 0075 0307; LATIN SMALL LETTER U WITH COMBINING DOT ABOVE; u̇ -->
+					<!-- bll; seq; 007A 0300; LATIN SMALL LETTER Z WITH COMBINING GRAVE ACCENT; z̀ -->
+					<!-- bll; seq; 007A 0304; LATIN SMALL LETTER Z WITH COMBINING MACRON; z̄ -->
+					<!-- bll; seq; 007A 0306; LATIN SMALL LETTER Z WITH COMBINING BREVE; z̆ -->
+					<!-- bll; seq; 007A 0308; LATIN SMALL LETTER Z WITH COMBINING DIAERESIS; z̈ -->
+					<!-- bll; seq; 007A 0327; LATIN SMALL LETTER Z WITH COMBINING CEDILLA; z̧ -->
+					<!-- bll; seq; 00C7 0306; LATIN CAPITAL LETTER C WITH CEDILLA WITH COMBINING BREVE; Ç̆ -->
+					<!-- bll; seq; 00DB 0304; LATIN CAPITAL LETTER U WITH CIRCUMFLEX WITH COMBINING MACRON; Û̄ -->
+					<!-- bll; seq; 00E7 0306; LATIN SMALL LETTER C WITH CEDILLA WITH COMBINING BREVE; ç̆ -->
+					<!-- bll; seq; 00FB 0304; LATIN SMALL LETTER U WITH CIRCUMFLEX WITH COMBINING MACRON; û̄ -->
+					<!-- bll; seq; 00FF 0301; LATIN SMALL LETTER Y WITH DIAERESIS WITH COMBINING ACUTE ACCENT; ÿ́ -->
+					<!-- bll; seq; 010C 0315; LATIN CAPITAL LETTER C WITH CARON WITH COMBINING COMMA ABOVE RIGHT; Č̕ -->
+					<!-- bll; seq; 010C 0323; LATIN CAPITAL LETTER C WITH CARON WITH COMBINING DOT BELOW; Č̣ -->
+					<!-- bll; seq; 010D 0315; LATIN SMALL LETTER C WITH CARON WITH COMBINING COMMA ABOVE RIGHT; č̕ -->
+					<!-- bll; seq; 010D 0323; LATIN SMALL LETTER C WITH CARON WITH COMBINING DOT BELOW; č̣ -->
+					<string>verticallineabovecomb</string> <!-- unicode 030D -->
+					<!-- bll; seq; 0113 030D; LATIN SMALL LETTER E WITH MACRON WITH COMBINING VERTICAL LINE ABOVE; ē̍ -->
+					<!-- bll; seq; 012A 0301; LATIN CAPITAL LETTER I WITH MACRON WITH COMBINING ACUTE ACCENT; Ī́ -->
+					<!-- bll; seq; 012B 0301; LATIN SMALL LETTER I WITH MACRON WITH COMBINING ACUTE ACCENT; ī́ -->
+					<!-- bll; seq; 014D 030D; LATIN SMALL LETTER O WITH MACRON WITH COMBINING VERTICAL LINE ABOVE; ō̍ -->
+					<!-- bll; seq; 017D 0326; LATIN CAPITAL LETTER Z WITH CARON WITH COMBINING COMMA BELOW; Ž̦ -->
+					<!-- bll; seq; 017D 0327; LATIN CAPITAL LETTER Z WITH CARON WITH COMBINING CEDILLA; Ž̧ -->
+					<!-- bll; seq; 017E 0326; LATIN SMALL LETTER Z WITH CARON WITH COMBINING COMMA BELOW; ž̦ -->
+					<!-- bll; seq; 017E 0327; LATIN SMALL LETTER Z WITH CARON WITH COMBINING CEDILLA; ž̧ -->
+					<!-- bll; seq; 1E32 0304; LATIN CAPITAL LETTER K WITH DOT BELOW WITH COMBINING MACRON; Ḳ̄ -->
+					<!-- bll; seq; 1E33 0304; LATIN SMALL LETTER K WITH DOT BELOW WITH COMBINING MACRON; ḳ̄ -->
+					<!-- bll; seq; 1E62 0304; LATIN CAPITAL LETTER S WITH DOT BELOW WITH COMBINING MACRON; Ṣ̄ -->
+					<!-- bll; seq; 1E63 0304; LATIN SMALL LETTER S WITH DOT BELOW WITH COMBINING MACRON; ṣ̄ -->
+					<!-- bll; seq; 1E6C 0304; LATIN CAPITAL LETTER T WITH DOT BELOW WITH COMBINING MACRON; Ṭ̄ -->
+					<!-- bll; seq; 1E6D 0304; LATIN SMALL LETTER T WITH DOT BELOW WITH COMBINING MACRON; ṭ̄ -->
+					<!-- bll; seq; 1EA0 0308; LATIN CAPITAL LETTER A WITH DOT BELOW WITH COMBINING DIAERESIS; Ạ̈ -->
+					<!-- bll; seq; 1EA1 0308; LATIN SMALL LETTER A WITH DOT BELOW WITH COMBINING DIAERESIS; ạ̈ -->
+					<!-- bll; seq; 1ECC 0308; LATIN CAPITAL LETTER O WITH DOT BELOW WITH COMBINING DIAERESIS; Ọ̈ -->
+					<!-- bll; seq; 1ECD 0308; LATIN SMALL LETTER O WITH DOT BELOW WITH COMBINING DIAERESIS; ọ̈ -->
+					<!-- bll; seq; 1EE4 0304; LATIN CAPITAL LETTER U WITH DOT BELOW WITH COMBINING MACRON; Ụ̄ -->
+					<!-- bll; seq; 1EE4 0308; LATIN CAPITAL LETTER U WITH DOT BELOW WITH COMBINING DIAERESIS; Ụ̈ -->
+					<!-- bll; seq; 1EE5 0304; LATIN SMALL LETTER U WITH DOT BELOW WITH COMBINING MACRON; ụ̄ -->
+					<!-- bll; seq; 1EE5 0308; LATIN SMALL LETTER U WITH DOT BELOW WITH COMBINING DIAERESIS; ụ̈ -->
+					<string>space</string> <!-- unicode 0020 -->
+					<string>quotesingle</string> <!-- unicode 0027 -->
+					<string>comma</string> <!-- unicode 002C -->
+					<string>hyphen</string> <!-- unicode 002D -->
+					<string>period</string> <!-- unicode 002E -->
+					<string>grave</string> <!-- unicode 0060 -->
+					<string>asciitilde</string> <!-- unicode 007E -->
+					<string>dieresis</string> <!-- unicode 00A8 -->
+					<string>acute</string> <!-- unicode 00B4 -->
+					<string>periodcentered</string> <!-- unicode 00B7 -->
+					<string>primemod</string> <!-- unicode 02B9 -->
+					<string>doubleprimemod</string> <!-- unicode 02BA -->
+					<string>ringhalfright</string> <!-- unicode 02BE -->
+					<string>ringhalfleft</string> <!-- unicode 02BF -->
+					<string>verticallinemod</string> <!-- unicode 02C8 -->
+					<string>verticallinelowmod</string> <!-- unicode 02CC -->
+					<string>quoteright</string> <!-- unicode 2019 -->
+					<string>daggerdbl</string> <!-- unicode 2021 -->
+					<string>exclam</string> <!-- unicode 0021 -->
+					<string>quotedbl</string> <!-- unicode 0022 -->
+					<string>numbersign</string> <!-- unicode 0023 -->
+					<string>dollar</string> <!-- unicode 0024 -->
+					<string>percent</string> <!-- unicode 0025 -->
+					<string>ampersand</string> <!-- unicode 0026 -->
+					<string>parenleft</string> <!-- unicode 0028 -->
+					<string>parenright</string> <!-- unicode 0029 -->
+					<string>asterisk</string> <!-- unicode 002A -->
+					<string>plus</string> <!-- unicode 002B -->
+					<string>slash</string> <!-- unicode 002F -->
+					<string>zero</string> <!-- unicode 0030 -->
+					<string>one</string> <!-- unicode 0031 -->
+					<string>two</string> <!-- unicode 0032 -->
+					<string>three</string> <!-- unicode 0033 -->
+					<string>four</string> <!-- unicode 0034 -->
+					<string>five</string> <!-- unicode 0035 -->
+					<string>six</string> <!-- unicode 0036 -->
+					<string>seven</string> <!-- unicode 0037 -->
+					<string>eight</string> <!-- unicode 0038 -->
+					<string>nine</string> <!-- unicode 0039 -->
+					<string>colon</string> <!-- unicode 003A -->
+					<string>semicolon</string> <!-- unicode 003B -->
+					<string>less</string> <!-- unicode 003C -->
+					<string>equal</string> <!-- unicode 003D -->
+					<string>greater</string> <!-- unicode 003E -->
+					<string>question</string> <!-- unicode 003F -->
+					<string>at</string> <!-- unicode 0040 -->
+					<string>bracketleft</string> <!-- unicode 005B -->
+					<string>backslash</string> <!-- unicode 005C -->
+					<string>asciicircum</string> <!-- unicode 005E -->
+					<string>underscore</string> <!-- unicode 005F -->
+					<string>braceleft</string> <!-- unicode 007B -->
+					<string>bar</string> <!-- unicode 007C -->
+					<string>braceright</string> <!-- unicode 007D -->
+					<string>exclamdown</string> <!-- unicode 00A1 -->
+					<string>cent</string> <!-- unicode 00A2 -->
+					<string>sterling</string> <!-- unicode 00A3 -->
+					<string>yen</string> <!-- unicode 00A5 -->
+					<string>section</string> <!-- unicode 00A7 -->
+					<string>copyright</string> <!-- unicode 00A9 -->
+					<string>ordfeminine</string> <!-- unicode 00AA -->
+					<string>guillemetleft</string> <!-- unicode 00AB -->
+					<string>logicalnot</string> <!-- unicode 00AC -->
+					<string>registered</string> <!-- unicode 00AE -->
+					<string>macron</string> <!-- unicode 00AF -->
+					<string>degree</string> <!-- unicode 00B0 -->
+					<string>plusminus</string> <!-- unicode 00B1 -->
+					<string>twosuperior</string> <!-- unicode 00B2 -->
+					<string>threesuperior</string> <!-- unicode 00B3 -->
+					<string>micro</string> <!-- unicode 00B5 -->
+					<string>paragraph</string> <!-- unicode 00B6 -->
+					<string>onesuperior</string> <!-- unicode 00B9 -->
+					<string>ordmasculine</string> <!-- unicode 00BA -->
+					<string>guillemetright</string> <!-- unicode 00BB -->
+					<string>questiondown</string> <!-- unicode 00BF -->
+					<string>multiply</string> <!-- unicode 00D7 -->
+					<string>divide</string> <!-- unicode 00F7 -->
+					<string>euro</string> <!-- unicode 20AC -->
+					<string>currency</string> <!-- unicode 00A4 -->
+					<string>brokenbar</string> <!-- unicode 00A6 -->
+					<string>cedilla</string> <!-- unicode 00B8 -->
+					<string>onequarter</string> <!-- unicode 00BC -->
+					<string>onehalf</string> <!-- unicode 00BD -->
+					<string>threequarters</string> <!-- unicode 00BE -->
+					<string>uni0009</string> <!-- unicode 0009 -->
+					<string>uni000A</string> <!-- unicode 000A -->
+					<string>CR</string> <!-- unicode 000D -->
+					<string>nbspace</string> <!-- unicode 00A0 -->
+				</array>
+				<key>name</key>
+				<string>(normative)</string>
+			</dict>
+			<!-- END: normative -->
+
+			<!-- START: Greek Letters (extended) -->
+			<dict>
+				<key>list</key>
+				<array>
+					<string>Alphatonos</string> <!-- unicode 0386 -->
+					<string>Epsilontonos</string> <!-- unicode 0388 -->
+					<string>Etatonos</string> <!-- unicode 0389 -->
+					<string>Iotatonos</string> <!-- unicode 038A -->
+					<string>Omicrontonos</string> <!-- unicode 038C -->
+					<string>Upsilontonos</string> <!-- unicode 038E -->
+					<string>Omegatonos</string> <!-- unicode 038F -->
+					<string>iotadieresistonos</string> <!-- unicode 0390 -->
+					<string>Alpha</string> <!-- unicode 0391 -->
+					<string>Beta</string> <!-- unicode 0392 -->
+					<string>Gamma</string> <!-- unicode 0393 -->
+					<string>Delta</string> <!-- unicode 0394 -->
+					<string>Epsilon</string> <!-- unicode 0395 -->
+					<string>Zeta</string> <!-- unicode 0396 -->
+					<string>Eta</string> <!-- unicode 0397 -->
+					<string>Theta</string> <!-- unicode 0398 -->
+					<string>Iota</string> <!-- unicode 0399 -->
+					<string>Kappa</string> <!-- unicode 039A -->
+					<string>Lambda</string> <!-- unicode 039B -->
+					<string>Mu</string> <!-- unicode 039C -->
+					<string>Nu</string> <!-- unicode 039D -->
+					<string>Xi</string> <!-- unicode 039E -->
+					<string>Omicron</string> <!-- unicode 039F -->
+					<string>Pi</string> <!-- unicode 03A0 -->
+					<string>Rho</string> <!-- unicode 03A1 -->
+					<string>Sigma</string> <!-- unicode 03A3 -->
+					<string>Tau</string> <!-- unicode 03A4 -->
+					<string>Upsilon</string> <!-- unicode 03A5 -->
+					<string>Phi</string> <!-- unicode 03A6 -->
+					<string>Chi</string> <!-- unicode 03A7 -->
+					<string>Psi</string> <!-- unicode 03A8 -->
+					<string>Omega</string> <!-- unicode 03A9 -->
+					<string>Iotadieresis</string> <!-- unicode 03AA -->
+					<string>Upsilondieresis</string> <!-- unicode 03AB -->
+					<string>alphatonos</string> <!-- unicode 03AC -->
+					<string>epsilontonos</string> <!-- unicode 03AD -->
+					<string>etatonos</string> <!-- unicode 03AE -->
+					<string>iotatonos</string> <!-- unicode 03AF -->
+					<string>upsilondieresistonos</string> <!-- unicode 03B0 -->
+					<string>alpha</string> <!-- unicode 03B1 -->
+					<string>beta</string> <!-- unicode 03B2 -->
+					<string>gamma</string> <!-- unicode 03B3 -->
+					<string>delta</string> <!-- unicode 03B4 -->
+					<string>epsilon</string> <!-- unicode 03B5 -->
+					<string>zeta</string> <!-- unicode 03B6 -->
+					<string>eta</string> <!-- unicode 03B7 -->
+					<string>theta</string> <!-- unicode 03B8 -->
+					<string>iota</string> <!-- unicode 03B9 -->
+					<string>kappa</string> <!-- unicode 03BA -->
+					<string>lambda</string> <!-- unicode 03BB -->
+					<string>mu</string> <!-- unicode 03BC -->
+					<string>nu</string> <!-- unicode 03BD -->
+					<string>xi</string> <!-- unicode 03BE -->
+					<string>omicron</string> <!-- unicode 03BF -->
+					<string>pi</string> <!-- unicode 03C0 -->
+					<string>rho</string> <!-- unicode 03C1 -->
+					<string>sigmafinal</string> <!-- unicode 03C2 -->
+					<string>sigma</string> <!-- unicode 03C3 -->
+					<string>tau</string> <!-- unicode 03C4 -->
+					<string>upsilon</string> <!-- unicode 03C5 -->
+					<string>phi</string> <!-- unicode 03C6 -->
+					<string>chi</string> <!-- unicode 03C7 -->
+					<string>psi</string> <!-- unicode 03C8 -->
+					<string>omega</string> <!-- unicode 03C9 -->
+					<string>iotadieresis</string> <!-- unicode 03CA -->
+					<string>upsilondieresis</string> <!-- unicode 03CB -->
+					<string>omicrontonos</string> <!-- unicode 03CC -->
+					<string>upsilontonos</string> <!-- unicode 03CD -->
+					<string>omegatonos</string> <!-- unicode 03CE -->
+				</array>
+				<key>name</key>
+				<string>Greek Letters (extended)</string>
+			</dict>
+			<!-- END: Greek Letters (extended) -->
+
+			<!-- START: Cyrillic Letters (extended) -->
+			<dict>
+				<key>list</key>
+				<array>
+					<string>Iigrave-cy</string> <!-- unicode 040D -->
+					<string>A-cy</string> <!-- unicode 0410 -->
+					<string>Be-cy</string> <!-- unicode 0411 -->
+					<string>Ve-cy</string> <!-- unicode 0412 -->
+					<string>Ge-cy</string> <!-- unicode 0413 -->
+					<string>De-cy</string> <!-- unicode 0414 -->
+					<string>Ie-cy</string> <!-- unicode 0415 -->
+					<string>Zhe-cy</string> <!-- unicode 0416 -->
+					<string>Ze-cy</string> <!-- unicode 0417 -->
+					<string>Ii-cy</string> <!-- unicode 0418 -->
+					<string>Iishort-cy</string> <!-- unicode 0419 -->
+					<string>Ka-cy</string> <!-- unicode 041A -->
+					<string>El-cy</string> <!-- unicode 041B -->
+					<string>Em-cy</string> <!-- unicode 041C -->
+					<string>En-cy</string> <!-- unicode 041D -->
+					<string>O-cy</string> <!-- unicode 041E -->
+					<string>Pe-cy</string> <!-- unicode 041F -->
+					<string>Er-cy</string> <!-- unicode 0420 -->
+					<string>Es-cy</string> <!-- unicode 0421 -->
+					<string>Te-cy</string> <!-- unicode 0422 -->
+					<string>U-cy</string> <!-- unicode 0423 -->
+					<string>Ef-cy</string> <!-- unicode 0424 -->
+					<string>Ha-cy</string> <!-- unicode 0425 -->
+					<string>Tse-cy</string> <!-- unicode 0426 -->
+					<string>Che-cy</string> <!-- unicode 0427 -->
+					<string>Sha-cy</string> <!-- unicode 0428 -->
+					<string>Shcha-cy</string> <!-- unicode 0429 -->
+					<string>Hardsign-cy</string> <!-- unicode 042A -->
+					<string>Softsign-cy</string> <!-- unicode 042C -->
+					<string>Yu-cy</string> <!-- unicode 042E -->
+					<string>Ya-cy</string> <!-- unicode 042F -->
+					<string>a-cy</string> <!-- unicode 0430 -->
+					<string>be-cy</string> <!-- unicode 0431 -->
+					<string>ve-cy</string> <!-- unicode 0432 -->
+					<string>ge-cy</string> <!-- unicode 0433 -->
+					<string>de-cy</string> <!-- unicode 0434 -->
+					<string>ie-cy</string> <!-- unicode 0435 -->
+					<string>zhe-cy</string> <!-- unicode 0436 -->
+					<string>ze-cy</string> <!-- unicode 0437 -->
+					<string>ii-cy</string> <!-- unicode 0438 -->
+					<string>iishort-cy</string> <!-- unicode 0439 -->
+					<string>ka-cy</string> <!-- unicode 043A -->
+					<string>el-cy</string> <!-- unicode 043B -->
+					<string>em-cy</string> <!-- unicode 043C -->
+					<string>en-cy</string> <!-- unicode 043D -->
+					<string>o-cy</string> <!-- unicode 043E -->
+					<string>pe-cy</string> <!-- unicode 043F -->
+					<string>er-cy</string> <!-- unicode 0440 -->
+					<string>es-cy</string> <!-- unicode 0441 -->
+					<string>te-cy</string> <!-- unicode 0442 -->
+					<string>u-cy</string> <!-- unicode 0443 -->
+					<string>ef-cy</string> <!-- unicode 0444 -->
+					<string>ha-cy</string> <!-- unicode 0445 -->
+					<string>tse-cy</string> <!-- unicode 0446 -->
+					<string>che-cy</string> <!-- unicode 0447 -->
+					<string>sha-cy</string> <!-- unicode 0448 -->
+					<string>shcha-cy</string> <!-- unicode 0449 -->
+					<string>hardsign-cy</string> <!-- unicode 044A -->
+					<string>softsign-cy</string> <!-- unicode 044C -->
+					<string>yu-cy</string> <!-- unicode 044E -->
+					<string>ya-cy</string> <!-- unicode 044F -->
+					<string>iigrave-cy</string> <!-- unicode 045D -->
+				</array>
+				<key>name</key>
+				<string>Cyrillic Letters (extended)</string>
+			</dict>
+			<!-- END: Cyrillic Letters (extended) -->
+
+			<!-- START: Non-Letters E1 (extended) -->
+			<dict>
+				<key>list</key>
+				<array>
+					<string>florin</string> <!-- unicode 0192 -->
+					<string>hmod</string> <!-- unicode 02B0 -->
+					<string>rmod</string> <!-- unicode 02B3 -->
+					<string>circumflex</string> <!-- unicode 02C6 -->
+					<string>tilde</string> <!-- unicode 02DC -->
+					<string>smod</string> <!-- unicode 02E2 -->
+					<string>dmod</string> <!-- unicode 1D48 -->
+					<string>tmod</string> <!-- unicode 1D57 -->
+					<string>quoteleft</string> <!-- unicode 2018 -->
+					<string>quotesinglbase</string> <!-- unicode 201A -->
+					<string>quotedblleft</string> <!-- unicode 201C -->
+					<string>quotedblright</string> <!-- unicode 201D -->
+					<string>quotedblbase</string> <!-- unicode 201E -->
+					<string>dagger</string> <!-- unicode 2020 -->
+					<string>ellipsis</string> <!-- unicode 2026 -->
+					<string>perthousand</string> <!-- unicode 2030 -->
+					<string>minute</string> <!-- unicode 2032 -->
+					<string>second</string> <!-- unicode 2033 -->
+					<string>guilsinglleft</string> <!-- unicode 2039 -->
+					<string>guilsinglright</string> <!-- unicode 203A -->
+					<string>zerosuperior</string> <!-- unicode 2070 -->
+					<string>foursuperior</string> <!-- unicode 2074 -->
+					<string>fivesuperior</string> <!-- unicode 2075 -->
+					<string>sixsuperior</string> <!-- unicode 2076 -->
+					<string>sevensuperior</string> <!-- unicode 2077 -->
+					<string>eightsuperior</string> <!-- unicode 2078 -->
+					<string>ninesuperior</string> <!-- unicode 2079 -->
+					<string>nmod</string> <!-- unicode 207F -->
+					<string>zeroinferior</string> <!-- unicode 2080 -->
+					<string>oneinferior</string> <!-- unicode 2081 -->
+					<string>twoinferior</string> <!-- unicode 2082 -->
+					<string>threeinferior</string> <!-- unicode 2083 -->
+					<string>fourinferior</string> <!-- unicode 2084 -->
+					<string>fiveinferior</string> <!-- unicode 2085 -->
+					<string>sixinferior</string> <!-- unicode 2086 -->
+					<string>seveninferior</string> <!-- unicode 2087 -->
+					<string>eightinferior</string> <!-- unicode 2088 -->
+					<string>nineinferior</string> <!-- unicode 2089 -->
+					<string>trademark</string> <!-- unicode 2122 -->
+					<string>infinity</string> <!-- unicode 221E -->
+					<string>lessequal</string> <!-- unicode 2264 -->
+					<string>greaterequal</string> <!-- unicode 2265 -->
+				</array>
+				<key>name</key>
+				<string>Non-Letters E1 (extended)</string>
+			</dict>
+			<!-- END: Non-Letters E1 (extended) -->
+
+		</array>
+	</dict>
+	
+
+</array>
+</plist>
