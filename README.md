@@ -7,7 +7,7 @@ Type designers often like to add our recommended glyphs as well, such as the gly
 
 ##### Not required, but highly recommended:
 
-* [Christoph Koeberlin Latin S](https://github.com/koeberlin/Latin-Character-Sets/tree/main/CharacterSets/Glyphs)
+* [Christoph Koeberlin Latin S](https://github.com/koeberlin/Latin-Character-Sets/blob/main/CharacterSets/Glyphs/CustomFilter%20Koeberlin%20New%20Latin.plist)
 * [DIN-91379](https://github.com/fontwerk/specifications/blob/main/CustomFilter%20DIN.plist)
 
 
