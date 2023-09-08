@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.7">
+<plist version="1.8">
 <!--
 CustomFilter Fontwerk all Glyph Sets
 v.1.2 colon.case deleted; 
@@ -9,6 +9,7 @@ v.1.4 remove unnecessary lists
 v.1.5 added ballotBox, dottedCircle to 'Recommended'
 v.1.6 added replacementCharacter (basically the .notdef but with a unicode, get used by Chrome and is part of Google minimum character set)
 v.1.7 removed softhyphen.sc, softhyphen.case
+v.1.8. added ballotX to 'Recommended'
 -->
 <array>
 	<dict>
@@ -415,8 +416,8 @@ v.1.7 removed softhyphen.sc, softhyphen.case
 					<string>bar</string>
 					<string>brokenbar</string>
 					<string>dagger</string>
-					<string>literSign</string>
 					<string>daggerdbl</string>
+					<string>literSign</string>
 					<string>estimated</string>
 					<string>colon.case</string>
 					<string>exclamdown.case</string>
@@ -607,10 +608,11 @@ v.1.7 removed softhyphen.sc, softhyphen.case
 					<string>rightBlackSmallTriangle</string>
 					<string>downBlackSmallTriangle</string>
 					<string>leftBlackSmallTriangle</string>
-					<string>ballotBox</string>
 					<string>ballotBoxWithCheck</string>
 					<string>ballotBoxWithX</string>
+					<string>ballotBox</string>
 					<string>checkmark</string>
+					<string>ballotX</string>
 					<string>dottedCircle</string><!-- https://github.com/googlefonts/fontbakery/blob/d56f803737cee3a39c65d27772d9d4cdf01611d9/Lib/fontbakery/profiles/universal.py#L1506 -->
 				</array>
 				<key>name</key>
