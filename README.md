@@ -11,4 +11,4 @@ Type designers often like to add our recommended glyphs as well, such as the gly
 * [DIN-91379](https://github.com/fontwerk/specifications/blob/main/CustomFilter%20DIN.plist)
 
 
-![plist in use: GlyphsApp preview](./imgs/Screenshot 2023-09-08 at 15.38.35.png?raw=true "plist in use: GlyphsApp preview")
+![plist in use: GlyphsApp preview](../imgs/plistGlyphsappPreview.png?raw=true "plist in use: GlyphsApp preview")
