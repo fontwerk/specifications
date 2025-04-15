@@ -4,6 +4,7 @@
 <!--
 CustomFilter DIN Glyph Sets
 v.1.0 added DIN-91379, based on: https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.3.txt
+v.1.1 added Emacronacute U+1E16, Adotaccent U+0226, Idieresisacute U+1E2E
 -->
 <array>
 	<dict>
@@ -316,6 +317,7 @@ v.1.0 added DIN-91379, based on: https://github.com/String-Latin/DIN-91379-Chara
 					<string>tcommaaccent</string> <!-- unicode 021B -->
 					<string>Hcaron</string> <!-- unicode 021E -->
 					<string>hcaron</string> <!-- unicode 021F -->
+					<string>Adotaccent</string> <!-- unicode 0226 -->
 					<string>adotaccent</string> <!-- unicode 0227 -->
 					<string>Ecedilla</string> <!-- unicode 0228 -->
 					<string>ecedilla</string> <!-- unicode 0229 -->
@@ -344,6 +346,7 @@ v.1.0 added DIN-91379, based on: https://github.com/String-Latin/DIN-91379-Chara
 					<string>dmacronbelow</string> <!-- unicode 1E0F -->
 					<string>Dcedilla</string> <!-- unicode 1E10 -->
 					<string>dcedilla</string> <!-- unicode 1E11 -->
+					<string>Emacronacute</string> <!-- unicode 1E16 -->
 					<string>emacronacute</string> <!-- unicode 1E17 -->
 					<string>Ecedillabreve</string> <!-- unicode 1E1C -->
 					<string>ecedillabreve</string> <!-- unicode 1E1D -->
@@ -361,6 +364,7 @@ v.1.0 added DIN-91379, based on: https://github.com/String-Latin/DIN-91379-Chara
 					<string>hcedilla</string> <!-- unicode 1E29 -->
 					<string>Hbrevebelow</string> <!-- unicode 1E2A -->
 					<string>hbrevebelow</string> <!-- unicode 1E2B -->
+					<string>Idieresisacute</string> <!-- unicode 1E2E -->
 					<string>idieresisacute</string> <!-- unicode 1E2F -->
 					<string>Kacute</string> <!-- unicode 1E30 -->
 					<string>kacute</string> <!-- unicode 1E31 -->
