@@ -10,6 +10,7 @@ v.1.5 added ballotBox, dottedCircle to 'Recommended'
 v.1.6 added replacementCharacter (basically the .notdef but with a unicode, get used by Chrome and is part of Google minimum character set)
 v.1.7 removed softhyphen.sc, softhyphen.case
 v.1.8. added ballotX to 'Recommended'
+v.1.9 remove softhyphen (based on issues with customer)
 -->
 <array>
 	<dict>
@@ -355,7 +356,7 @@ v.1.8. added ballotX to 'Recommended'
 					<string>leftanglebracket-math</string>
 					<string>rightanglebracket-math</string>
 					<string>hyphen</string>
-					<string>softhyphen</string>
+					<!--<string>softhyphen</string>-->
 					<string>endash</string>
 					<string>emdash</string>
 					<string>figuredash</string>
